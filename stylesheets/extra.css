@@ -1,0 +1,13 @@
+[data-md-color-scheme="slate"] {
+  /* Primary (menus, header, abas) */
+  --md-primary-fg-color: #a3cc54;
+  --md-primary-fg-color--light: #c0e57b;
+  --md-primary-fg-color--dark: #7fa53f;
+
+  /* Accent (destaques/links/ações) – opcional */
+  --md-accent-fg-color: #d8f29a;
+  --md-accent-fg-color--transparent: #a3cc5433;
+
+  /* Links dentro do texto */
+  --md-typeset-a-color: #a3cc54; /* verde personalizado */
+}
