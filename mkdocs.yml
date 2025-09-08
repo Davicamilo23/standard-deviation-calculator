@@ -1,0 +1,29 @@
+site_name: Standard Deviation Calculator
+repo_url: https://github.com/Davicamilo23/standard-deviation-calculator
+
+nav:
+  - Welcome: index.md
+  - Percentage Calculator: percentage.md
+  - Fairness Calculator: fairness.md
+
+theme:
+  name: material
+  logo: img/PizzaGraph.png
+  favicon: img/PizzaGraph.png
+  palette:
+    scheme: slate
+
+  font:
+    text: Poppins
+  
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+  
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
